@@ -1,0 +1,22 @@
+{
+  "name": "tuantq-react-native-activity",
+  "version": "1.0.0",
+  "description": "activity for mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "activity"
+  ],
+  "author": "tuantq",
+  "license": "ISC",
+  "dependencies": {
+    "mainam-react-native-dismiss-keyboard": "^1.0.3",
+    "mainam-react-native-scaleimage": "^1.0.1",
+    "prop-types": "^15.6.1",
+    "react-native": "0.55.3",
+    "native-base": "^2.12.0",
+    "react": "16.3.1"
+  }
+}
